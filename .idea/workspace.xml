@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bedd866b-a834-4a6a-bb1a-b76cd0b258bd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YL2PXrtilnDNkLmfRupCGZq0RD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RunManager" selected="Application.PasswordMain">
+    <configuration name="PasswordMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PasswordMain" />
+      <module name="PasswordCheck.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PasswordValidator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PasswordValidator" />
+      <module name="PasswordCheck.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PasswordTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;PasswordTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="PasswordTest.passTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;PasswordTest.passTest&quot; --stacktrace" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="PasswordTest.passTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;PasswordTest.passTests&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.PasswordMain" />
+      <item itemvalue="Application.PasswordValidator" />
+      <item itemvalue="Gradle.PasswordTest" />
+      <item itemvalue="Gradle.PasswordTest.passTest" />
+      <item itemvalue="Gradle.PasswordTest.passTests" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.PasswordTest.passTest" />
+        <item itemvalue="Gradle.PasswordTest.passTests" />
+        <item itemvalue="Gradle.PasswordTest" />
+        <item itemvalue="Application.PasswordMain" />
+        <item itemvalue="Application.PasswordValidator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bedd866b-a834-4a6a-bb1a-b76cd0b258bd" name="Default Changelist" comment="" />
+      <created>1582707529461</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582707529461</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="107" y="50" width="806" height="678" key="#HTTP_Proxy" timestamp="1583830093378">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="107" y="50" width="806" height="678" key="#HTTP_Proxy/0.0.1024.741@0.0.1024.741" timestamp="1583830093378" />
+    <state x="107" y="33" width="806" height="678" key="#Project_Structure" timestamp="1583831786118">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="107" y="33" width="806" height="678" key="#Project_Structure/0.0.1024.741@0.0.1024.741" timestamp="1583831786118" />
+    <state x="0" y="29" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584101564481">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="0" y="29" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1024.741@0.0.1024.741" timestamp="1584101564481" />
+    <state x="97" y="99" width="830" height="545" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1583414030334">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="97" y="99" width="830" height="545" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1024.741@0.0.1024.741" timestamp="1583414030334" />
+    <state x="295" y="115" width="430" height="513" key="FileChooserDialogImpl" timestamp="1583830151240">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="295" y="115" width="430" height="513" key="FileChooserDialogImpl/0.0.1024.741@0.0.1024.741" timestamp="1583830151240" />
+    <state width="978" height="197" key="GridCell.Tab.0.bottom" timestamp="1584101636178">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state width="978" height="197" key="GridCell.Tab.0.bottom/0.0.1024.741@0.0.1024.741" timestamp="1584101636178" />
+    <state width="978" height="197" key="GridCell.Tab.0.center" timestamp="1584101636177">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state width="978" height="197" key="GridCell.Tab.0.center/0.0.1024.741@0.0.1024.741" timestamp="1584101636177" />
+    <state width="978" height="197" key="GridCell.Tab.0.left" timestamp="1584101636177">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state width="978" height="197" key="GridCell.Tab.0.left/0.0.1024.741@0.0.1024.741" timestamp="1584101636177" />
+    <state width="978" height="197" key="GridCell.Tab.0.right" timestamp="1584101636178">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state width="978" height="197" key="GridCell.Tab.0.right/0.0.1024.741@0.0.1024.741" timestamp="1584101636178" />
+    <state x="16" y="6" width="992" height="731" key="SettingsEditor" timestamp="1584100916199">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="16" y="6" width="992" height="731" key="SettingsEditor/0.0.1024.741@0.0.1024.741" timestamp="1584100916199" />
+    <state x="205" y="199" key="com.intellij.ide.util.TipDialog" timestamp="1584099039114">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="205" y="199" key="com.intellij.ide.util.TipDialog/0.0.1024.741@0.0.1024.741" timestamp="1584099039114" />
+    <state x="0" y="0" width="1020" height="741" key="new project wizard" timestamp="1584099854792">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="0" y="0" width="1020" height="741" key="new project wizard/0.0.1024.741@0.0.1024.741" timestamp="1584099854792" />
+    <state x="218" y="0" width="583" height="741" key="refactoring.ChangeSignatureDialog" timestamp="1583414076963">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="218" y="0" width="583" height="741" key="refactoring.ChangeSignatureDialog/0.0.1024.741@0.0.1024.741" timestamp="1583414076963" />
+  </component>
+</project>

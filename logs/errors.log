@@ -1,0 +1,18 @@
+2020-03-12 15:14:30,430 | PasswordValidator: WARNING Got an Exception  Invalid Password: 
+2020-03-12 15:14:30,436 | PasswordValidator: SEVERE  password should be longer than than 8 characters
+2020-03-12 15:14:30,437 | PasswordValidator:  User Password is not ok
+2020-03-13 09:58:13,937 | PasswordValidator: WARNING Got an Exception  Invalid Password: 
+2020-03-13 09:58:13,944 | PasswordValidator: SEVERE  password should be longer than than 8 characters
+2020-03-13 09:58:13,944 | PasswordValidator:  User Password is not ok
+2020-03-13 10:27:24,763 | PasswordValidator: WARNING Got an Exception  Invalid Password: 
+2020-03-13 10:27:24,769 | PasswordValidator: password should be longer than than 8 characters
+2020-03-13 10:27:24,769 | PasswordValidator:  User Password is not ok
+2020-03-13 13:31:11,143 | PasswordValidator: WARNING Got an Exception  Invalid Password: 
+2020-03-13 13:31:11,149 | PasswordValidator: password should be longer than than 8 characters
+2020-03-13 13:31:11,149 | PasswordValidator:  User Password is not ok
+2020-03-13 13:39:33,645 | PasswordValidator: Invalid Password: 
+2020-03-13 13:39:33,649 | PasswordValidator: password should at least have one digit
+2020-03-13 13:39:33,649 | PasswordValidator:  User Password is not ok
+2020-03-13 14:13:34,281 | PasswordValidator: Invalid Password: 
+2020-03-13 14:13:34,286 | PasswordValidator: password should at least have one digit
+2020-03-13 14:13:34,286 | PasswordValidator:  User Password is not ok
